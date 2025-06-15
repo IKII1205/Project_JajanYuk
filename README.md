@@ -1,11 +1,16 @@
 # Project_JajanYuk
 
-dibuat oleh:
+# BELOM LAYAK DIPRESENTASIIN. KAMI SADAR KAMI GA LULUS CAPSTONE 🙏
 
-- iki (https://github.com/IKII1205)
-- zul [nk otw]
-- elgi (https://github.com/elgiazsalman)
-- jojo (https://github.com/axiomjo)
+dibuat oleh:
+ CC25-CR383		
+
+DBS Coding Camp 2025
+ 
+- iki 
+- zul
+- elgi
+- jojo 
 
 ---
 🍔🍟🍕🍣🍦🍩☕🍎🍜
